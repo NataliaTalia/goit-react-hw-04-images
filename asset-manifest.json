@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-images/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-04-images/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-04-images/static/css/main.33bfda6e.css",
+    "main.js": "/goit-react-hw-04-images/static/js/main.9887a201.js",
+    "static/media/binoculars-icon.svg": "/goit-react-hw-04-images/static/media/binoculars-icon.c81195d19cdfdb909890b2593f84df7c.svg",
     "index.html": "/goit-react-hw-04-images/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-04-images/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-04-images/static/js/main.07d3183d.js.map"
+    "main.33bfda6e.css.map": "/goit-react-hw-04-images/static/css/main.33bfda6e.css.map",
+    "main.9887a201.js.map": "/goit-react-hw-04-images/static/js/main.9887a201.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.33bfda6e.css",
+    "static/js/main.9887a201.js"
   ]
 }
